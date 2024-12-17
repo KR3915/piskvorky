@@ -130,10 +130,3 @@ else:
 
 
 
-
-            end = True
-            WIN = "O"
-
-else:
-  print ("hrac "+ WIN + " vyhral")
-
