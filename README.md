@@ -15,7 +15,6 @@ Python 3.7+（适用于控制台版本）
 图形界面版本需要 Tkinter 库（Python标准库中已包含）。
 2. 安装步骤
 下载仓库：
-bash
-Zkopírovat kód
+
 
 Copyright (c) 2012 Ondřej Brdek <ondrej.brdek@gmail.com>
