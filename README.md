@@ -17,4 +17,4 @@ Python 3.7+（适用于控制台版本）
 下载仓库：
 
 
-Copyright (c) 2012 Ondřej Brdek <ondrej.brdek@gmail.com>
+Copyright (c) 2024 Ondřej Brdek <ondrej.brdek@gmail.com>
