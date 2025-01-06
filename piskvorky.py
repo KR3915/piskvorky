@@ -17,6 +17,7 @@ P1 = plocha
 print ("Welcome to Tic Tac Toe \n========================================\n GAME RULES:\n Each player can place one mark (or stone)\n per turn on the 3x3 grid. The WINNER is\n who succeeds in placing three of their\n marks in a:\n * horizontal,\n * vertical or\n * diagonal row")
 print ("+---+---+---+\n| 7 | 8 | 9 |\n+---+---+---+\n| 4 | 5 | 6 |\n+---+---+---+\n| 1 | 2 | 3 |\n+---+---+---+\n")
 while end == False:
+#stridani hracu
   if Player == "O":
     Player = "X"
   else:
@@ -27,6 +28,7 @@ while end == False:
   print("========================================")
   pozice = int(input())
   indx = pozice - 1
+#kontrola
   if 0>int(pozice):
     while 0>int(pozice):
       print("zvolte číslo mezi 1-9: ")
